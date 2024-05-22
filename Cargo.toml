@@ -1,6 +1,6 @@
 [workspace]
 members = ["src-tauri"]
-
+//ak
 [profile.release]
 strip = true
 lto = true
