@@ -1,7 +1,6 @@
 [workspace]
 members = ["src-tauri"]
-
-
+// Commit
 [profile.release]
 strip = true
 lto = true
